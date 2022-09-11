@@ -3,7 +3,6 @@
  * ID: 163927197
  * email: sraeisi2@myseneca.ca
  * course: BTH545NAA
- * test
 **/
 #include <QApplication>
 #include <QPushButton>
